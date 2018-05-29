@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 1b3c145defd57fe4ea3fc9e98e74f70c
+timeCreated: 1488939236
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: red_strike_0
+    21300002: red_strike_1
+    21300004: red_strike_2
+    21300006: red_strike_3
+    21300008: red_strike_4
+    21300010: red_strike_5
+    21300012: red_strike_6
+    21300014: red_strike_7
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: red_strike_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 248
+        height: 397
+      alignment: 9
+      pivot: {x: 0.46359453, y: 0.004925168}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red_strike_1
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 236
+        width: 156
+        height: 397
+      alignment: 9
+      pivot: {x: 0.15608391, y: 0.008150307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red_strike_2
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 326
+        width: 369
+        height: 302
+      alignment: 9
+      pivot: {x: 0.56931645, y: 0.08541051}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red_strike_3
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 388
+        width: 370
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5646927, y: 0.09675737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red_strike_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 260
+        height: 232
+      alignment: 9
+      pivot: {x: 0.39811015, y: 0.08558792}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red_strike_5
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 0
+        width: 257
+        height: 237
+      alignment: 9
+      pivot: {x: 0.40364152, y: 0.10480992}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red_strike_6
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 88
+        width: 310
+        height: 228
+      alignment: 9
+      pivot: {x: 0.089435406, y: 0.06554162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red_strike_7
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 88
+        width: 310
+        height: 233
+      alignment: 9
+      pivot: {x: 0.09721601, y: 0.08056768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

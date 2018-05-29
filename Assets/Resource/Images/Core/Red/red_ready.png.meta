@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: ce2130ce620149d44985b606f5e06b89
+timeCreated: 1488935682
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: red_ready_0
+    21300002: red_ready_1
+    21300004: red_ready_2
+    21300006: red_ready_3
+    21300008: red_ready_4
+    21300010: red_ready_5
+    21300012: red_ready_6
+    21300014: red_ready_7
+    21300016: red_ready_8
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: red_ready_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 252
+        width: 220
+        height: 273
+      alignment: 9
+      pivot: {x: 0.58797866, y: 0.010714632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red_ready_1
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 251
+        width: 211
+        height: 273
+      alignment: 9
+      pivot: {x: 0.6554769, y: 0.00417789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red_ready_2
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 257
+        width: 217
+        height: 263
+      alignment: 9
+      pivot: {x: 0.6299033, y: 0.007509645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red_ready_3
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 270
+        width: 232
+        height: 256
+      alignment: 9
+      pivot: {x: 0.58964777, y: 0.0048434734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red_ready_4
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 270
+        width: 253
+        height: 253
+      alignment: 9
+      pivot: {x: 0.53571594, y: 0.006538602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red_ready_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2
+        width: 251
+        height: 246
+      alignment: 9
+      pivot: {x: 0.47587016, y: 0.010389487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red_ready_6
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 256
+        height: 241
+      alignment: 9
+      pivot: {x: 0.39661825, y: 0.010493933}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red_ready_7
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 5
+        width: 251
+        height: 237
+      alignment: 9
+      pivot: {x: 0.32492515, y: 0.0110600665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red_ready_8
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 7
+        width: 239
+        height: 235
+      alignment: 9
+      pivot: {x: 0.2787289, y: 0.0076277223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

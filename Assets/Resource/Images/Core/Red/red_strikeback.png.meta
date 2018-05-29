@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: fa24476915d1fde409fec2a90bbf8b49
+timeCreated: 1488948719
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: red_strikeback_0
+    21300002: red_strikeback_1
+    21300004: red_strikeback_2
+    21300006: red_strikeback_3
+    21300008: red_strikeback_4
+    21300010: red_strikeback_5
+    21300012: red_strikeback_6
+    21300014: red_strikeback_7
+    21300016: red_strikeback_8
+    21300018: red_strikeback_9
+    21300020: red_strikeback_10
+    21300022: red_strikeback_11
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: red_strikeback_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 484
+        width: 264
+        height: 214
+      alignment: 9
+      pivot: {x: 0.43218634, y: 0.04452914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red_strikeback_1
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 442
+        width: 234
+        height: 257
+      alignment: 9
+      pivot: {x: 0.41924202, y: 0.016245207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red_strikeback_2
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 431
+        width: 169
+        height: 269
+      alignment: 9
+      pivot: {x: -0.10942032, y: 0.020806182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red_strikeback_3
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 492
+        width: 170
+        height: 206
+      alignment: 9
+      pivot: {x: -0.4317979, y: -0.22628962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red_strikeback_4
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 387
+        width: 172
+        height: 310
+      alignment: 9
+      pivot: {x: -0.029389493, y: -0.16230105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red_strikeback_5
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 366
+        width: 228
+        height: 331
+      alignment: 9
+      pivot: {x: -0.2019241, y: -0.052889727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red_strikeback_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 209
+        width: 310
+        height: 262
+      alignment: 9
+      pivot: {x: -0.20123316, y: 0.011392258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red_strikeback_7
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 167
+        width: 280
+        height: 259
+      alignment: 9
+      pivot: {x: -0.22157767, y: 0.021336677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red_strikeback_8
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 162
+        width: 192
+        height: 275
+      alignment: 9
+      pivot: {x: -0.29249635, y: 0.025706565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red_strikeback_9
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 111
+        width: 141
+        height: 270
+      alignment: 9
+      pivot: {x: -0.5621364, y: 0.021801928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red_strikeback_10
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 167
+        width: 226
+        height: 190
+      alignment: 9
+      pivot: {x: -0.036602188, y: 0.014310496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red_strikeback_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 285
+        height: 203
+      alignment: 9
+      pivot: {x: 0.12247123, y: 0.015457927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: 3d8a78198e6ba4c4c97bb214212a62f1
+timeCreated: 1488098998
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: stick_1
+    21300002: stick_2
+    21300004: stick_3
+    21300006: stick_4
+    21300008: stick_5
+    21300010: than
+    21300012: stick_8
+    21300014: stick_6
+    21300016: stick_7
+    21300018: stick_9
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stick_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 359
+        width: 132
+        height: 120
+      alignment: 9
+      pivot: {x: 0.21998523, y: 0.092087045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stick_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 234
+        width: 119
+        height: 243
+      alignment: 9
+      pivot: {x: 0.4283069, y: -0.0058277273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stick_3
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 231
+        width: 87
+        height: 243
+      alignment: 9
+      pivot: {x: 0.5762708, y: -0.003227014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stick_4
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 273
+        width: 221
+        height: 210
+      alignment: 9
+      pivot: {x: 0.09394443, y: -0.0010535831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stick_5
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 325
+        width: 212
+        height: 155
+      alignment: 9
+      pivot: {x: 0.06329202, y: -0.009644736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: than
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 233
+        width: 127
+        height: 117
+      alignment: 9
+      pivot: {x: 0.23626874, y: 0.04898606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stick_8
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 135
+        width: 254
+        height: 182
+      alignment: 9
+      pivot: {x: 0.685358, y: 0.27603626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stick_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 15
+        width: 218
+        height: 208
+      alignment: 9
+      pivot: {x: 0.05212037, y: 0.32833797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stick_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 15
+        width: 169
+        height: 208
+      alignment: 9
+      pivot: {x: 0.064359136, y: 0.32985714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stick_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 254
+        height: 131
+      alignment: 9
+      pivot: {x: 0.67789394, y: 0.0031158694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

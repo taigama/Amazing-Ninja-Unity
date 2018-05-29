@@ -1,0 +1,582 @@
+fileFormatVersion: 2
+guid: 98144975d62a54c49a13f5f4bc1e8ff1
+timeCreated: 1488902242
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: blue_run_1
+    21300002: blue_run_2
+    21300004: blue_run_3
+    21300006: blue_run_4
+    21300008: blue_run_5
+    21300010: blue_run_6
+    21300012: blue_run_7
+    21300014: blue_run_8
+    21300016: blue_run_9
+    21300018: blue_run10
+    21300020: blue_run_11
+    21300022: blue_run_12
+    21300024: blue_run_13
+    21300026: blue_run_14
+    21300028: blue_run_15
+    21300030: blue_run_16
+    21300032: blue_run_17
+    21300034: blue_run_18
+    21300036: blue_run_19
+    21300038: blue_run_20
+    21300040: blue_run_28
+    21300042: blue_run_21
+    21300044: blue_run_22
+    21300046: blue_run_23
+    21300048: blue_run_24
+    21300050: blue_run_25
+    21300052: blue_run_26
+    21300054: blue_run_27
+    21300056: blue_run_35
+    21300058: blue_run_29
+    21300060: blue_run_30
+    21300062: blue_run_31
+    21300064: blue_run_32
+    21300066: blue_run_33
+    21300068: blue_run_34
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blue_run_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 855
+        width: 235
+        height: 225
+      alignment: 9
+      pivot: {x: 0.13896768, y: 0.7670437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blue_run_2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 856
+        width: 234
+        height: 224
+      alignment: 9
+      pivot: {x: 0.15509686, y: 0.7684675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blue_run_3
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 855
+        width: 215
+        height: 225
+      alignment: 9
+      pivot: {x: 0.17043628, y: 0.77165747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blue_run_4
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 856
+        width: 192
+        height: 225
+      alignment: 9
+      pivot: {x: 0.18296306, y: 0.76679635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blue_run_5
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 858
+        width: 167
+        height: 223
+      alignment: 9
+      pivot: {x: 0.16766796, y: 0.7643709}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blue_run_6
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 859
+        width: 161
+        height: 221
+      alignment: 9
+      pivot: {x: 0.1334327, y: 0.7655477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blue_run_7
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 858
+        width: 176
+        height: 222
+      alignment: 9
+      pivot: {x: 0.10275685, y: 0.7656349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blue_run_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 627
+        width: 183
+        height: 224
+      alignment: 9
+      pivot: {x: 0.09020685, y: 0.78326714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blue_run_9
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 628
+        width: 185
+        height: 224
+      alignment: 9
+      pivot: {x: 0.09471922, y: 0.78141457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blue_run10
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 639
+        width: 197
+        height: 212
+      alignment: 9
+      pivot: {x: 0.088647366, y: 0.76125234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blue_run_11
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 647
+        width: 203
+        height: 202
+      alignment: 9
+      pivot: {x: 0.08597719, y: 0.75490636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blue_run_12
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 651
+        width: 206
+        height: 201
+      alignment: 9
+      pivot: {x: 0.08768826, y: 0.7526318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blue_run_13
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 655
+        width: 199
+        height: 196
+      alignment: 9
+      pivot: {x: 0.08684168, y: 0.74367166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blue_run_14
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 658
+        width: 204
+        height: 194
+      alignment: 9
+      pivot: {x: 0.08545999, y: 0.74417084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blue_run_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 432
+        width: 207
+        height: 190
+      alignment: 9
+      pivot: {x: 0.101573855, y: 0.7359693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blue_run_16
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 439
+        width: 223
+        height: 185
+      alignment: 9
+      pivot: {x: 0.1606171, y: 0.7281247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blue_run_17
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 445
+        width: 239
+        height: 182
+      alignment: 9
+      pivot: {x: 0.2067543, y: 0.7260863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blue_run_18
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 445
+        width: 231
+        height: 194
+      alignment: 9
+      pivot: {x: 0.19383419, y: 0.7461529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blue_run_19
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 445
+        width: 224
+        height: 203
+      alignment: 9
+      pivot: {x: 0.18430655, y: 0.7524898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blue_run_20
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 445
+        width: 213
+        height: 208
+      alignment: 9
+      pivot: {x: 0.14968227, y: 0.76047105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blue_run_28
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 231
+        width: 199
+        height: 213
+      alignment: 9
+      pivot: {x: 0.09965722, y: 0.7582525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blue_run_21
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 211
+        width: 202
+        height: 214
+      alignment: 9
+      pivot: {x: 0.115424395, y: 0.7681802}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blue_run_22
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 218
+        width: 188
+        height: 215
+      alignment: 9
+      pivot: {x: 0.1023101, y: 0.76751924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blue_run_23
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 225
+        width: 168
+        height: 214
+      alignment: 9
+      pivot: {x: 0.111353554, y: 0.7572386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blue_run_24
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 223
+        width: 162
+        height: 221
+      alignment: 9
+      pivot: {x: 0.10541035, y: 0.768893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blue_run_25
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 216
+        width: 166
+        height: 225
+      alignment: 9
+      pivot: {x: 0.10355386, y: 0.77500284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blue_run_26
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 216
+        width: 164
+        height: 226
+      alignment: 9
+      pivot: {x: 0.11343421, y: 0.77128994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blue_run_27
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 211
+        width: 179
+        height: 229
+      alignment: 9
+      pivot: {x: 0.10747439, y: 0.7772085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blue_run_35
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 3
+        width: 231
+        height: 217
+      alignment: 9
+      pivot: {x: 0.1284465, y: 0.760966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blue_run_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 7
+        width: 210
+        height: 197
+      alignment: 9
+      pivot: {x: 0.085955925, y: 0.73907053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blue_run_30
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 30
+        width: 216
+        height: 180
+      alignment: 9
+      pivot: {x: 0.08299411, y: 0.71499974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blue_run_31
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 38
+        width: 217
+        height: 178
+      alignment: 9
+      pivot: {x: 0.081838444, y: 0.7090382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blue_run_32
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 24
+        width: 217
+        height: 186
+      alignment: 9
+      pivot: {x: 0.08118829, y: 0.72616994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blue_run_33
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 19
+        width: 221
+        height: 191
+      alignment: 9
+      pivot: {x: 0.0942311, y: 0.73041695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blue_run_34
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 0
+        width: 226
+        height: 209
+      alignment: 9
+      pivot: {x: 0.1104234, y: 0.7601728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
